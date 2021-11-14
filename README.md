@@ -5,11 +5,11 @@ The original open-source gas truck conversion
 ## Associated T6 Series Gas Truck Conversion
 There are seperate folders and guides for each of these items:
 
-  * [3D-Printed parts](../blob/master/3D-Printed/README.MD)
-  * [Laser-Cut parts](../blob/master/Laser-Cut/README.MD)
-  * [Modified parts](../blob/master/Modified/README.MD)
-  * [Purchased parts](../blob/master/Purchased/README.MD)
-  * [Assembly](../blob/master/Assembly/README.MD)
+  * [3D-Printed parts](3D-Printed/README.MD)
+  * [Laser-Cut parts](../Laser-Cut/README.MD)
+  * [Modified parts](../../../Modified/README.MD)
+  * [Purchased parts](../../Purchased/README.MD)
+  * [Assembly](../../Assembly/README.MD)
 
 ## Description
 
@@ -52,4 +52,4 @@ Damon Palm
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE File](../blob/master/LICENSE) for details
+This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE File](LICENSE) for details
