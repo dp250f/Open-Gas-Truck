@@ -1,19 +1,19 @@
 # Open-Gas-Truck
 
-The original open-source gas truck conversion
+## 3D Printed parts guides
+Each printed part will have its own folder and guide:
 
-## Associated T6 Series Gas Truck Conversion
-There are seperate folders and guides for each of these items:
-
-  * [3D-Printed parts](3D-Printed)
-  * [Laser-Cut parts](Laser-Cut)
-  * [Modified parts](Modified)
-  * [Purchased parts](Purchased)
-  * [Assembly](Assembly)
+  * [Rear Battery Box](Rear-Battery-Box) -optional-
+  * [Transmission Cases](Transmission-Cases)
+  * [Center Section](Center-Section)
+  * [Front braces](Front-Braces)
+  * [Small Parts](Small-Parts)
+  * [Spur Gear](Spur-Gear)
+  * [Idler Gear](Idler-Gear)
 
 ## Description
 
-How to make your own gas truck conversion. Currently only the Associated T6 platform is done. TLR may happen if I or someone else feels very motivated to do so.
+In order to make this a little easier to do, 
 
 ## Getting Started
 First I must say this is a project for experienced hobbyists. There may eventually be ready-to-assemble kit versions, but for now it's DIY only.
@@ -24,19 +24,6 @@ First I must say this is a project for experienced hobbyists. There may eventual
   * 300°c capable hot-end
   * Heated bed
 * High quality Carbon-Fiber filled PA6 filament (I used Polymaker Polymide CF-PA6)
-* Access to a laser cutting service such as send-cut-send
-* A T6, 6.1, 6.2, or 6.3 you don't mind sacrificing to the gas truck gods :-)
-* Lots of patience and some hacking skillz
-
-### Tools
-* Printer for printing out chassis modification template
-* Center-punch
-* Cordless drill
-* 3mm and stepped drill bits
-* Countersinking bit
-* High quality 3mm x 0.5mm tap and tap wrench
-* Jigsaw with metal cutting blade
-* Assorted files (round and flat)
 
 ## Authors
 
@@ -52,4 +39,4 @@ Damon Palm
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE File](LICENSE) for details
+This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE File](/LICENSE) for details
