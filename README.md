@@ -6,10 +6,10 @@ The original open-source gas truck conversion
 There are seperate folders and guides for each of these items:
 
   * [3D-Printed parts](3D-Printed)
-  * [Laser-Cut parts](Laser-Cut/)
-  * [Modified parts](Modified/)
-  * [Purchased parts](Purchased/)
-  * [Assembly](Assembly/)
+  * [Laser-Cut parts](Laser-Cut)
+  * [Modified parts](Modified)
+  * [Purchased parts](Purchased)
+  * [Assembly](Assembly)
 
 ## Description
 
