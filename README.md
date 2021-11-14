@@ -43,7 +43,8 @@ First I must say this is a project for experienced hobbyists. There may eventual
 Contributors names and contact info
 
 So far it's just me here... Contributions are welcome!
-Damon Palm
+
+* Damon Palm
 
 ## Version History
 
