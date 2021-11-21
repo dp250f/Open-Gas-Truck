@@ -1,36 +1,32 @@
-# Open-Gas-Truck
-
-## 3D Printed parts guides
-Each printed part will have its own folder and guide:
-
-  * [Rear Battery Box](Rear-Battery-Box) -optional-
-  * [Transmission Cases](Transmission-Cases)
-  * [Center Section](Center-Section)
-  * [Front braces](Front-Braces)
-  * [Small Parts](Small-Parts)
-  * [Spur Gear](Spur-Gear)
-  * [Idler Gear](Idler-Gear)
+# 3D Printed parts guides
 
 ## Description
 
-In order to make this a little easier to do, 
+Different types of parts have their own guides:
 
-## Getting Started
-First I must say this is a project for experienced hobbyists. There may eventually be ready-to-assemble kit versions, but for now it's DIY only.
+  * [Rear Battery Box](Rear-Battery-Box) *(0.4mm nozzle)* -optional-
+  * [Transmission Cases](Transmission-Cases) *(0.4mm nozzle)*
+  * [Center Section](Center-Section) *(0.4mm nozzle)*
+  * [Front braces](Front-Braces) *(0.4mm nozzle)*
+  * [Fuel Tank Mounts](Fuel-Tank-Mounts) *(0.4mm nozzle)*
+  * [Small Parts](Small-Parts) *(Linkage, Brake parts, Transmission Brace) - (0.4mm nozzle)*
+  * [Gears](Gears) *(0.25mm nozzle)*
 
 ### Prerequisites
+
 * 3D printer(s) with the following capabilities (for printing carbon-fiber PA6 Nylon)
-  * Hard 0.4mm and 0.25mm nozzle (hardened steel or equivelent)
-  * 300°c capable hot-end
+  * Hard 0.4mm and 0.25mm nozzle (hardened steel or equivalent)
+  * 300°C capable hot-end (make sure you hot-tighten it at that temperature)
   * Heated bed
+* Filament dryer
 * High quality Carbon-Fiber filled PA6 filament (I used Polymaker Polymide CF-PA6)
+* Magigoo or equivalent PA bed adhesive
 
 ## Authors
 
-Contributors names and contact info
+### Contributors names and contact info - *Contributions are welcome!* 
 
-So far it's just me here... Contributions are welcome!
-Damon Palm
+* Damon Palm
 
 ## Version History
 
@@ -39,4 +35,4 @@ Damon Palm
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE File](/LICENSE) for details
+This project is licensed under the **GNU General Public License v3.0 License** - see the [LICENSE File](/LICENSE) for details
