@@ -1,8 +1,9 @@
-# 0.4mm Nozzle
+# 0.4mm Nozzle Parts
 
 ## Material / part requirements:
 
 * Carbon-Fiber PA6 Nylon (Polymaker Polymide CF-PA6)
+* Filament dryer which can dry Nylon
 * 0.4mm hardened nozzle at 300°C
 * Magigoo PA on 45°C bed
 * Print each part one at a time to keep the layer time as short as possible. This makes layer adhesion as strong as possible.
@@ -20,13 +21,12 @@ Assuming your hot end is up to the task of printing abrasives at 300°C and you'
 * Layer Height - 0.15mm-0.25mm ( I used 0.25mm)
     * Using a 0.5mm extrusion width allows up to 0.25mm layer height while maintaining good layer adhesion
     * I've not really noticed reduced layer adhesion within this layer height range.
-* Perimeters - 4
-* Top/Bottom layers - 2mm (4 layers @0.25mm layer height)
+* Perimeters - 4 (2mm)
+* Top/Bottom layers - 2mm (8 layers @0.25mm layer height)
 * Detect thin walls
 * Detect bridging perimeters
 * Don't support bridges
 * 33% Gyroid infill
-* Generate support material
 * Support Contact Z Distance - 0.05mm (smaller gap improves layer adhesion with these layers)
 * Print speed - 40mm/s-80mm/s (infill and support fast, small/external perimeters slow)
 * Bridge speed - 30mm/s
@@ -110,7 +110,7 @@ Assuming your hot end is up to the task of printing abrasives at 300°C and you'
 
 ## Small Parts:
 
-* Includes the following parts - 
+* Includes the following parts -
     * Brake lever
     * Brake Mount
     * Chassis shim (x4)
