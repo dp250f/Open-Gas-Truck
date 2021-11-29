@@ -49,6 +49,8 @@ Assuming your hot end is up to the task of printing abrasives at 300°C and you'
 * XY Size Compensation - Same as you used for printing Idler Gear
 * 100% bridging fan
 * 100% fan on infill after bridging layer (This will keep bridge layer from warping)
+
+    ![Add Custom G-Code](/3D-Printed/Images/AddCustomG-Code.png)
     * Move the top layer view slider (In PrusaSlicer) to the first layer after the bridging layer
     * Right-click the "+" and select "Add Custom G-Code"
     * Type M106 S255 and click OK (for single-extruder printers with Marlin firmware)
