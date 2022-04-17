@@ -6,11 +6,11 @@ The original open-source gas truck conversion
 
 There are separate folders and guides for each of these items:
 
-  * [3D-Printed parts](3D-Printed)
-  * [Laser-Cut parts](Laser-Cut)
-  * [Modified parts](Modified)
-  * [Purchased parts](Purchased)
-  * [Assembly](Assembly)
+* [3D-Printed parts](3D-Printed)
+* [Laser-Cut parts](Laser-Cut-Parts)
+* [Modified parts](Modified-Parts)
+* [Purchased parts](Purchased-Parts)
+* [Assembly](Assembly)
 
 ## Description
 
@@ -23,10 +23,10 @@ First I must say this is a project for experienced makers/hobbyists. There may e
 ### Prerequisites
 
 * 3D printer(s) with the following capabilities (for printing carbon-fiber PA6 Nylon)
-  * Hard 0.4mm and 0.25mm nozzle (hardened steel or equivalent)
-  * 300°C capable hot-end (make sure you hot-tighten it at that temperature)
-  * Heated bed
-* Filament dryer 
+    * Hard 0.4mm and 0.25mm nozzle (hardened steel or equivalent)
+    * 300°C capable hot-end (make sure you hot-tighten it at that temperature)
+    * Heated bed
+* Filament dryer
 * High quality Carbon-Fiber filled PA6 filament (I used Polymaker Polymide CF-PA6)
 * Magigoo or equivalent PA bed adhesive
 * Access to a laser cutting service such as send-cut-send
@@ -46,7 +46,7 @@ First I must say this is a project for experienced makers/hobbyists. There may e
 
 ## Authors
 
-### Contributors names and contact info - *Contributions are welcome!* 
+### Contributors names and contact info - *Contributions are welcome!*
 
 * Damon Palm
 
@@ -57,4 +57,4 @@ First I must say this is a project for experienced makers/hobbyists. There may e
 
 ## License
 
-This project is licensed under the **GNU General Public License v3.0 License** - see the [LICENSE File](/LICENSE) for details
+This project is licensed under the **GNU General Public License v3.0 License** \- see the [LICENSE File](/LICENSE) for details

@@ -6,107 +6,118 @@
 * Filament dryer which can dry Nylon
 * 0.4mm hardened nozzle at 300°C
 * Magigoo PA on 45°C bed
-* Print each part one at a time to keep the layer time as short as possible. This makes layer adhesion as strong as possible.
+* Print each part one at a time to keep the layer time as short as possible. This makes layer adhesion as strong as possible.
 
 ## Slicer settings:
 
-Assuming your hot end is up to the task of printing abrasives at 300°C and you've got a filament dryer capable of drying Nylon, printing CF-PA6 Nylon isn't too tricky. Here's the general slicer settings I use:
+Assuming your hot end is up to the task of printing abrasives at 300°C and you've got a filament dryer capable of drying Nylon, printing CF-PA6 Nylon isn't too tricky. The sizing of these parts and this guide assume you'll be using PrusaSlicer. 
+Here's the general slicer settings I use:
 
 * Nozzle - 300°C
 * Bed - 45°C
 * Part cooling fan off (100% for bridging **ONLY**)
 * Minimum layer time - 0 seconds (PrusaSlicer calculates whacky layer times when generating support material)
 * 1.4mm retraction (This works on my MK3S extruder with an E3D Volcano and Nozzle-X)
-* Extrusion Width - 0.5mm for everything except support material which is 0.35mm
-* Layer Height - 0.15mm-0.25mm ( I used 0.25mm)
+* Extrusion Width - 0.5mm for everything except support material which is 0.4mm
+* Layer Height - 0.15mm-0.25mm (I used 0.25mm for most parts)
     * Using a 0.5mm extrusion width allows up to 0.25mm layer height while maintaining good layer adhesion
     * I've not really noticed reduced layer adhesion within this layer height range.
 * Perimeters - 4 (2mm)
-* Top/Bottom layers - 2mm (8 layers @0.25mm layer height)
+* Top/Bottom layers - 1 (because 100% infill)
 * Detect thin walls
 * Detect bridging perimeters
 * Don't support bridges
-* 33% Gyroid infill
+* 100% infill
 * Support Contact Z Distance - 0.05mm (smaller gap improves layer adhesion with these layers)
+* XY separation between an object and its support - 1.2mm to keep support from being printed in the middle of M3 threaded holes
 * Print speed - 40mm/s-80mm/s (infill and support fast, small/external perimeters slow)
 * Bridge speed - 30mm/s
 * Bridge flow ratio - 0.55 (Whatever you arrived at with calibration prints)
-* Extrusion Multiplier - 0.86 (Whatever you arrived at with calibration prints)
+* Extrusion Multiplier - 0.86 (Whatever you arrived at with calibration prints)
+
+## Post-Processing
+
+* There should not be blobs - if you see blobs, it's likely your hot end is leaking and needs to be hot-tightened. A loose hot end can cause all kinds of strange print quality issues.
+* You will find small pieces of plastic stuck to these prints. These should easily scrape off using a hobby knife and flat bladed screwdriver.
+* Apply Medium or Thin CA glue to the bridge layers to strengthen parts where layer adhesion is less than optimal. Allow it to fully dry before assembly because it can leave a white residue on anything that is near it while it's drying.
+* Cut away bridging layers which obscure holes. The purpose of these is to reduce support material.
+* Remove support material as soon as possible
 
 ## Rear Battery Box Top (optional):
 
+* All layer widths - 0.45mm (so the sides are 5 perimeters thick)
 * No support Material
 * 100% bridging fan
-* Bridging angle - Set it to go across the shortest edge
+* Bridging angle - Set it to go across at 45°
 
-![Battery Box Top Orientation](/3D-Printed/Images/BatteryBoxTopOrientation.png)
-![Battery Box Top Preview](/3D-Printed/Images/BatteryBoxTopPreview.png)
+![Battery Box Top Orientation](../Images/BatteryBoxTopOrientation.png)
+![Battery Box Top Preview](../Images/BatteryBoxTopPreview.png)
 
 ## Rear Battery Box Bottom (optional):
 
+* 0.2mm max layer height (better for overhangs)
+* All layer widths - 0.45mm (so the sides are 5 perimeters thick)
 * Support on build plate only (only on outside of part)
 * 100% bridging fan
-* Bridging angle - Set it to go across the shortest edge
-* Remove support material as soon as possible
 
-![Battery Box Bottom Orientation](/3D-Printed/Images/BatteryBoxBottomOrientation.png)
-![Battery Box Bottom Preview](/3D-Printed/Images/BatteryBoxBottomPreview.png)
+![Battery Box Bottom Orientation](../Images/BatteryBoxBottomOrientation.png)
+![Battery Box Bottom Preview](../Images/BatteryBoxBottomPreview.png)
 
 ## Transmission Case Top:
 
 * Inside dimensions are critical on this part, so that side must face up
 * Support on build plate only
-* No part cooling
-* Remove support material as soon as possible
+* 100% bridging fan
+* Bridging angle - Set it to go across the shortest edge
 
-![Transmission Case Top Orientation](/3D-Printed/Images/TransmissionCaseTopOrientation.png)
-![Transmission Case Top Preview](/3D-Printed/Images/TransmissionCaseTopPreview.png)
+![Transmission Case Top Orientation](../Images/TransmissionCaseTopOrientation.png)
+![Transmission Case Top Preview](../Images/TransmissionCaseTopPreview.png)
 
 ## Transmission Case Bottom:
 
 * Inside dimensions are critical on this part, so that side must face up
 * Support on build plate only
 * No part cooling
-* Remove support material as soon as possible
 
-![Transmission Case Bottom Orientation](/3D-Printed/Images/TransmissionCaseBottomOrientation.png)
-![Transmission Case Bottom Preview](/3D-Printed/Images/TransmissionCaseBottomPreview.png)
+![Transmission Case Bottom Orientation](../Images/TransmissionCaseBottomOrientation.png)
+![Transmission Case Bottom Preview](../Images/TransmissionCaseBottomPreview.png)
 
 ## Electronics Tray:
 
-* Support enabled everywhere
+* Support on build plate only
+* 5mm brim
 * 100% bridging fan
-* Bridging angle - Set it to go across the shortest edge
-* Remove support material as soon as possible
+* Bridging angle - Set it to go diagonal across large gaps
 
-![Electronics Tray Orientation](/3D-Printed/Images/ElectronicsTrayOrientation.png)
-![Electronics Tray Preview](/3D-Printed/Images/ElectronicsTrayPreview.png)
+![Electronics Tray Orientation](../Images/ElectronicsTrayOrientation.png)
+![Electronics Tray Preview](../Images/ElectronicsTrayPreview.png)
 
 ## Receiver Cover:
 
 * No support Material
 * No part cooling
 
-![Receiver Cover Orientation](/3D-Printed/Images/ReceiverCoverOrientation.png)
-![Receiver Cover Preview](/3D-Printed/Images/ReceiverCoverPreview.png)
+![Receiver Cover Orientation](../Images/ReceiverCoverOrientation.png)
+![Receiver Cover Preview](../Images/ReceiverCoverPreview.png)
 
 ## Front Chassis Braces:
 
 * Support on build plate only
+* 33% Gyroid infill
 * No part cooling
 * Print one at a time
 
-![Front Chassis Brace Orientation](/3D-Printed/Images/FrontLeftChassisBraceOrientation.png)
-![Front Chassis Brace Preview](/3D-Printed/Images/FrontLeftChassisBracePreview.png)
+![Front Chassis Brace Orientation](../Images/FrontLeftChassisBraceOrientation.png)
+![Front Chassis Brace Preview](../Images/FrontLeftChassisBracePreview.png)
 
 ## Fuel Tank Mounts:
 
 * Support on build plate only
 * No part cooling
-* Print one at a time if layer time is over 60 seconds
+* Print one at a time if needed to keep layer time under 60 seconds
 
-![Rear Fuel Tank Mount Orientation](/3D-Printed/Images/RearFuelTankMountOrientation.png)
-![Rear Fuel Tank Mount Preview](/3D-Printed/Images/RearFuelTankMountPreview.png)
+![Rear Fuel Tank Mount Orientation](../Images/RearFuelTankMountOrientation.png)
+![Rear Fuel Tank Mount Preview](../Images/RearFuelTankMountPreview.png)
 
 ## Small Parts:
 
@@ -120,7 +131,7 @@ Assuming your hot end is up to the task of printing abrasives at 300°C and you'
     * Transmission brace
 * No support Material
 * No part cooling
-* Print fewer parts at a time if layer time is over 60 seconds
+* Print fewer parts at a time as needed to keep layer time under 60 seconds
 
-![Small Parts Orientation](/3D-Printed/Images/SmallPartsOrientation.png)
-![Small Parts Preview](/3D-Printed/Images/SmallPartsPreview.png)
+![Small Parts Orientation](../Images/SmallPartsOrientation.png)
+![Small Parts Preview](../Images/SmallPartsPreview.png)
