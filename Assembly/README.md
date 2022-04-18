@@ -1,42 +1,76 @@
-# Open-Gas-Truck
+# Assembly Guide
 
-The original open-source gas truck conversion
+## Install Front Chassis Braces
+* Screws:
+    * (4) M3 x 10mm countersunk (for front 2 holes)
+    * (2) M3 x 8mm countersunk (for rear hole)
 
-## Associated T6 Series Gas Truck Conversion
-There are seperate folders and guides for each of these items:
+    ![FrontChassisBraces-2](./Images/FrontChassisBraces-2.jpg)
 
-  * [3D-Printed parts](3D-Printed)
-  * [Laser-Cut parts](Laser-Cut)
-  * [Modified parts](Modified)
-  * [Purchased parts](Purchased)
-  * [Assembly](Assembly)
+## Install Front Clip and Bumper
+* Screws:
+    * (4) M3 x 16mm countersunk (for bottom)
+    * (2) M3 x 12mm button head (for top)
 
-## Description
+    ![FrontClip](./Images/FrontClip.jpg)
 
-How to make your own gas truck conversion. Currently only the Associated T6 platform is done. TLR may happen if I or someone else feels very motivated to do so.
+## Install Steering Servo
+* Screws:
+    * (2) M3 x 10mm button head
 
-## Getting Started
-First I must say this is a project for experienced hobbyists. There may eventually be ready-to-assemble kit versions, but for now it's DIY only.
+    ![SteeringServo](./Images/SteeringServo.jpg)
 
-### Prerequisites
-* 3D printer(s) with the following capabilities (for printing carbon-fiber PA6 Nylon)
-  * Hard 0.4mm and 0.25mm nozzle (hardened steel or equivelent)
-  * 300°c capable hot-end
-  * Heated bed
-* High quality Carbon-Fiber filled PA6 filament (I used Polymaker Polymide CF-PA6)
-* Access to a laser cutting service such as send-cut-send
-* A T6, 6.1, 6.2, or 6.3 you don't mind sacrificing to the gas truck gods :-)
-* Lots of patience and some hacking skillz
+## Assemble Transmission
+* Insert 3/8 x 5/8 bearing into spur gear
 
-### Tools
-* Printer for printing out chassis modification template
-* Center-punch
-* Cordless drill
-* 3mm and stepped drill bits
-* Countersinking bit
-* High quality 3mm x 0.5mm tap and tap wrench
-* Jigsaw with metal cutting blade
-* Assorted files (round and flat)
+  ![SpurGear](./Images/SpurGear.jpg)
+* Assemble 3-gear (shorter) top-shaft with spur gear offset facing the shaft
+
+  ![TopShaft](./Images/TopShaft.jpg)
+* Install camber link block in bottom transmission case 
+  * (1) M2.5 x 8mm countersunk
+
+  ![Transmission-1](./Images/Transmission-1.jpg)
+* Install idler shaft and bearings into idler gear
+
+  ![Idler](./Images/Idler.jpg)
+* Install differential, idler, top-shaft, and swaybar in bottom transmission case and grease gears with black grease
+
+  ![Transmission-2](./Images/Transmission-2.jpg)
+* Install top transmission case and screws
+  * (2) M3 x 16mm countersunk (top rear)
+  * (2) M3 x 12mm countersunk (top middle)
+  * (2) M3 x 8mm button head (top front)
+
+  ![Transmission-3](./Images/Transmission-3.jpg)
+
+## Install Transmission and Rear Shock Tower
+  * (3) M3 x 10mm countersunk (front 3 transmission screws)
+  * (4) M3 x 12mm button head
+    
+    ![RearShockTower](./Images/RearShockTower.jpg)
+
+## Install Transmission and Suspension    
+  * (2) M3 x 16mm countersunk (rear D-Block screws)
+  * (2) M3 x 6 button head (swaybar screws)
+
+    ![RearSuspension-1](./Images/RearSuspension-1.jpg)
+
+
+## Assemble Rear Battery Box (OPTIONAL)
+* Wrap a layer of tape around the battery as needed to protect the shrink wrap
+
+    ![RearBatteryBox-1](./Images/RearBatteryBox-1.jpg)
+* Screw battery box together
+  * (2) M3 x 8mm button head
+
+  ![RearBatteryBox-2](./Images/RearBatteryBox-2.jpg)
+
+## Install Rear Battery Box (OPTIONAL)
+* (2) M3 x 8 button head (top battery box mount)
+* Replace rear bumper with rear battery box and use 8mm button head screws to mount top of box in swaybar screw holes
+
+    ![RearSuspension-2](./Images/RearSuspension-2.jpg)
 
 ## Authors
 
