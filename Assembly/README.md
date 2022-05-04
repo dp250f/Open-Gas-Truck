@@ -165,7 +165,88 @@
 ![TransmissionBrace](./Images/TransmissionBrace.jpg)
 
 ## Install Fuel Tank
-  * 
+  * Screws - (2) M3 x 10-12mm button head (top fuel tank mounts)
+  * Screws - (2) M3 x 10mm countersunk (bottom fuel tank mounts)
+  * O-Rings - (5) 1/10th scale shock o-rings (the kind that fit 3mm shock shafts)
+* Cut slots in fuel tank lid to allow it to open all the way without bending the spring
+
+![FuelTank-1](./Images/FuelTank-1.jpg)
+
+* Drill mount holes with 3mm or 1/8" drill
+
+![FuelTank-2](./Images/FuelTank-2.jpg)
+
+* Install spill tube o-ring and spill tube stay
+
+![FuelTank-3](./Images/FuelTank-3.jpg)
+![FuelTank-4](./Images/FuelTank-4.jpg)
+
+* Install front and rear fuel tank mounts using (2) button head screws and 4 o-rings
+
+![FuelTank-5](./Images/FuelTank-5.jpg)
+
+* Install fuel tank in chassis using (4) countersunk screws
+
+![FuelTank-6](./Images/FuelTank-6.jpg)
+
+# Engine Installation
+
+## Assemble Engine, Clutch, and top Engine Mounts
+  
+  * Screws - (4) M3 x 12mm cap-head
+* Install carburetor with slide facing the engine's left side and fuel fitting facing the rear of the engine
+* Install clutch and clutch bell per clutch manufacturer's instructions
+* Install throttle return elastic band
+* Install air filter
+* Install top engine mounts and shims as shown below using cap head screws **\*Use Threadlock**
+
+## Install Bottom Engine Mounts
+![Engine-1](./Images/Engine-1.jpg)
+
+* Glue chassis shim to bottom front engine mount as shown below
+
+![EngineMount-1](./Images/EngineMount-1.jpg)
+
+  * Screws - (4) M3 x 8mm countersunk
+* Install bottom engine mounts using countersunk screws **\*Use Threadlock**
+
+![EngineMount-2](./Images/EngineMount-2.jpg)
+
+## Install Engine, Fuel Line, Exhaust
+
+  * Screws - (4) M3 x 12mm cap head
+* Install engine using cap head screws from the bottom of the chassis
+* Set gear mesh 
+* **Threadlock** cap head screws one at a time
+* Adjust brake and tighten brake mount screw
+
+![EngineMount-3](./Images/EngineMount-3.jpg)
+![BrakeAdjust](./Images/BrakeAdjust.jpg)
+
+* Install fuel line and fuel filter leaving enough free pressure line to connect the pipe later
+
+![FuelLine](./Images/FuelLine.jpg)
+
+  * Screws (1) M3 x 12mm button head
+* Install Exhaust manifold and pipe. Secure pipe hanger wire with button head screw and washer
+
+![Exhaust](./Images/Exhaust.jpg)
+
+## Install Throttle Linkage
+  * Screws (2) M2 linkage screws (long and short)
+* Drill out one throttle slider hole so your linkage slides freely through it.
+* Attach throttle slider to throttle servo arm. Leave it loose enough so it rotates freely on the arm.
+
+![Throttle-1](./Images/Throttle-1.jpg)
+
+* Turn on Transmitter and receiver and center all throttle trims.
+* Assemble throttle and brake linkage as shown below
+* Throttle link slides through throttle slider. Use stiffer spring(s) on this one
+* Brake link threads into throttle slider
+
+![Throttle-2](./Images/Throttle-2.jpg)
+
+<video src='./Images/ThrottleMotion.mp4' width=960/>
 
 # 
 ## Authors
