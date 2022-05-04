@@ -4,8 +4,9 @@ The original open-source gas truck conversion
 
 ## Associated T6 Series Gas Truck Conversion
 
-There are separate folders and guides for each of these items:
+There are separate sections and guides for each of these items:
 
+* [Fusion 360 File](https://a360.co/3vGxaeg)
 * [3D-Printed parts](3D-Printed)
 * [Laser-Cut parts](Laser-Cut-Parts)
 * [Modified parts](Modified-Parts)
@@ -15,6 +16,8 @@ There are separate folders and guides for each of these items:
 ## Description
 
 How to make your own gas truck conversion. Currently only the Associated T6 platform is done. TLR 22T conversion may happen if I or someone else feels very motivated and has the time to do so.
+
+<iframe src="https://comcast2836.autodesk360.com/shares/public/SH35dfcQT936092f0e43b0660d2c04614c2d?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Getting Started
 
