@@ -1,5 +1,7 @@
 # Open-Gas-Truck
 
+![Open-GT_AE6.1](Open-GT_AE6.1.jpg)
+
 The original open-source gas truck conversion
 
 ## Associated T6 Series Gas Truck Conversion
