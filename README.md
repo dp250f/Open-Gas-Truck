@@ -8,12 +8,18 @@ The original open-source gas truck conversion
 
 There are separate sections and guides for each of these items:
 
-* [Fusion 360 Share](https://a360.co/3vGxaeg)
 * [3D-Printed parts](3D-Printed)
 * [Laser-Cut parts](Laser-Cut-Parts)
 * [Modified parts](Modified-Parts)
 * [Purchased parts](Purchased-Parts)
 * [Assembly](Assembly)
+
+Here's the Fusion 360 (CAD) shares:
+
+* [Full Assembly](https://a360.co/3vGxaeg)
+* [Chassis Template Drawing](https://a360.co/3ybymYJ)
+* [Laser-Cut Engine Mounts](https://a360.co/3Fe3Oad)
+* [Laser-Cut Engine Mount Drawing](https://a360.co/3kD4iNH)
 
 ## Description
 
