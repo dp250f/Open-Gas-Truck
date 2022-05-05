@@ -98,7 +98,9 @@
 
 ## Install Switch and Throttle Servo
   * Switch screws - (2) whatever the switch came with
-  * Screws - (4) M3 x 8-10mm button head (throttle servo)
+  * Screws - (4) M3 x 8-10mm button head (short throttle servo)
+  * Screws - (4) M3 x 16mm button head (tall throttle servo)
+    * Use Throttle Servo Spacers if using a tall servo
 * Servo wire can tuck behind switch
 * Switch wire tucks behind throttle servo (rear battery option)
 
@@ -235,7 +237,9 @@
 ## Install Throttle Linkage
   * Screws (2) M2 linkage screws (long and short)
 * Drill out one throttle slider hole so your linkage slides freely through it.
-* Attach throttle slider to throttle servo arm. Leave it loose enough so it rotates freely on the arm.
+* Attach throttle slider on top side of throttle servo arm (short servo option)
+* Attach throttle slider on bottom side of throttle servo arm (tall servo option)
+    * Leave it loose enough so it rotates freely on the arm.
 
 ![Throttle-1](./Images/Throttle-1.jpg)
 
