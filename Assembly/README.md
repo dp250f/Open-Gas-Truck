@@ -1,5 +1,24 @@
 # Assembly Guide
 
+## Screw Sizes
+Screw lengths are referenced in each step of this guide. Here's how to measure each type of screw
+* Countersunk
+  * Measure the whole screw
+
+  ![Measure-Countersunk](./Images/Measure-Countersunk.jpg)
+
+* Button Head
+  * Measure threads only
+
+  ![Measure-ButtonHead](./Images/Measure-ButtonHead.jpg)
+
+* Cap Head
+  * Measure threads only
+
+  ![Measure-CapHead](./Images/Measure-CapHead.jpg)
+
+
+
 # Front End Assembly
 
 ## Install Front Chassis Braces
@@ -168,7 +187,7 @@
 
 ## Install Fuel Tank
   * Screws - (2) M3 x 10-12mm button head (top fuel tank mounts)
-  * Screws - (2) M3 x 10mm countersunk (bottom fuel tank mounts)
+  * Screws - (4) M3 x 10mm countersunk (bottom fuel tank mounts)
   * O-Rings - (5) 1/10th scale shock o-rings (the kind that fit 3mm shock shafts)
 * Cut slots in fuel tank lid to allow it to open all the way without bending the spring
 
@@ -202,14 +221,15 @@
 * Install air filter
 * Install top engine mounts and shims as shown below using cap head screws **\*Use Threadlock**
 
-## Install Bottom Engine Mounts
 ![Engine-1](./Images/Engine-1.jpg)
 
+## Install Bottom Engine Mounts
+
+  * Screws - (4) M3 x 8mm countersunk
 * Glue chassis shim to bottom front engine mount as shown below
 
 ![EngineMount-1](./Images/EngineMount-1.jpg)
 
-  * Screws - (4) M3 x 8mm countersunk
 * Install bottom engine mounts using countersunk screws **\*Use Threadlock**
 
 ![EngineMount-2](./Images/EngineMount-2.jpg)
@@ -249,6 +269,7 @@
 * Brake link threads into throttle slider
 
 ![Throttle-2](./Images/Throttle-2.jpg)
+![Throttle-3](./Images/Throttle-3.jpg)
 
 <video src='https://user-images.githubusercontent.com/33988652/166619694-b23a875c-c1a2-4b09-a44c-60cb974bcf33.mp4' width=960/>
 
