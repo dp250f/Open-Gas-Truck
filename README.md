@@ -18,8 +18,7 @@ Here's the Fusion 360 (CAD) shares:
 
 * [Full Assembly](https://a360.co/3vGxaeg)
 * [Chassis Template Drawing](https://a360.co/3ybymYJ)
-* [Laser-Cut Engine Mounts](https://a360.co/3Fe3Oad)
-* [Laser-Cut Engine Mount Drawing](https://a360.co/3kD4iNH)
+* [Laser-Cut Engine Mount Drawing](https://a360.co/3vRHFeG)
 * [Laser-Cut Engine Mount Shim Drawing](https://a360.co/3vJ6Rnu)
 
 ## Description
