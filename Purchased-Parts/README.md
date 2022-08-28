@@ -11,14 +11,14 @@ There are seperate folders and guides for each of these items:
 
   ![SHEPT12R02SXT-1](Images/shept12r02sxt-1.jpg)
 * Exhaust header/pipe
-  * Currently only Ignite RC has a proper 1/10th scale off-road header and pipe (IG006). I ended up finding a used Losi rear-exhaust header and pipe. (Picture is of RC10GT2 header and pipe)
+  * There are 2 gas truck exhausts currently being made: Ignite RC (IG006) and RD Logics (61900 and 61905). Novarossi still has some new old stock 1/10th pipes which will work with the RD Logics header.
 
   ![Exhaust](Images/Exhaust.png)
 * Air filter
-  * I used a **Traxxas Complete Air Filter Set (TMX 2.5, 3.3)** (TRA5260). It might seem too large for this carburetor, but the included zip-tie clamps it down good and it seals fine. Motor Saver also has some very nice 1/10th size filters.
+  * I used a **Traxxas Complete Air Filter Set (TMX 2.5, 3.3)** (TRA5260). It might seem too large for this carburetor, but the included zip-tie clamps it down good and it seals fine. [Motorsaver.com](https://motorsaver.com/10scale.htm) also has some very nice 1/10th size filters for all sizes of carburetors.
 
   ![tra5260](Images/tra5260.jpg)
-* 75cc Fuel Tank (for Redcat/HSP 1/10th scale) These can be found on Amazon for around $10-$15
+* 75cc Fuel Tank (REDCAT 02004) These can be found on Amazon for around $10-$15. Make sure you get a genuine Redcat tank - I've had some cloned tank lids not seal at all.
 
   ![75ccTank](Images/75ccTank.jpg)
 * Fuel Filter
