@@ -64,6 +64,9 @@ Screw lengths are referenced in each step of this guide. Here's how to measure e
 
 ![Transmission-3](./Images/Transmission-3.jpg)
 
+## Install C-Block
+  * Screws - (2) M3 x 6mm countersunk
+
 ## Install Transmission and Rear Shock Tower
   * Screws - (3) M3 x 10mm countersunk (front 3 transmission screws)
   * Screws - (4) M3 x 12mm button head (shock tower)
@@ -186,9 +189,11 @@ Screw lengths are referenced in each step of this guide. Here's how to measure e
 ![TransmissionBrace](./Images/TransmissionBrace.jpg)
 
 ## Install Fuel Tank
-  * Screws - (2) M3 x 10-12mm button head (top fuel tank mounts)
-  * Screws - (4) M3 x 10mm countersunk (bottom fuel tank mounts)
-  * O-Rings - (5) 1/10th scale shock o-rings (the kind that fit 3mm shock shafts)
+  * Screws - (1) M3 x 16mm button head (top front fuel tank mount)
+  * Screws - (1) M3 x 12mm button head (top rear fuel tank mount)
+  * Screws - (2) M3 x 8mm countersunk (fuel tank mount joiner)
+  * Screws - (2) M3 x 12mm countersunk (fuel tank mount chassis screws)
+  * O-Rings - (6) 1/10th scale shock o-rings (the kind that fit 3mm shock shafts)
 * Cut slots in fuel tank lid to allow it to open all the way without bending the spring
 
 ![FuelTank-1](./Images/FuelTank-1.jpg)
@@ -202,11 +207,14 @@ Screw lengths are referenced in each step of this guide. Here's how to measure e
 ![FuelTank-3](./Images/FuelTank-3.jpg)
 ![FuelTank-4](./Images/FuelTank-4.jpg)
 
-* Install front and rear fuel tank mounts using (2) button head screws and 4 o-rings
+* Attach front mount to tank using 16mm button head screw, 3 o-rings (2 bottom, 1 top), and washer
+* Attach rear mount to tank using 12mm button hear screw, 2 o-rings, and washer
 
 ![FuelTank-5](./Images/FuelTank-5.jpg)
 
-* Install fuel tank in chassis using (4) countersunk screws
+* Attach tank mount joiner to tank mounts using (2) countersunk screws
+
+* Install fuel tank in chassis using (2) countersunk screws
 
 ![FuelTank-6](./Images/FuelTank-6.jpg)
 
