@@ -189,8 +189,7 @@ Screw lengths are referenced in each step of this guide. Here's how to measure e
 ![TransmissionBrace](./Images/TransmissionBrace.jpg)
 
 ## Install Fuel Tank
-  * Screws - (1) M3 x 16mm button head (top front fuel tank mount)
-  * Screws - (1) M3 x 12mm button head (top rear fuel tank mount)
+  * Screws - (2) M3 x 16mm button head (top fuel tank mounts)
   * Screws - (2) M3 x 8mm countersunk (fuel tank mount joiner)
   * Screws - (2) M3 x 12mm countersunk (fuel tank mount chassis screws)
   * O-Rings - (6) 1/10th scale shock o-rings (the kind that fit 3mm shock shafts)
