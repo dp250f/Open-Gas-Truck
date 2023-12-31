@@ -278,7 +278,7 @@ Screw lengths are referenced in each step of this guide. Here's how to measure e
 ![Throttle-2](./Images/Throttle-2.jpg)
 ![Throttle-3](./Images/Throttle-3.jpg)
 
-<video src='https://user-images.githubusercontent.com/33988652/166619694-b23a875c-c1a2-4b09-a44c-60cb974bcf33.mp4' width=960/>
+<video src='https://github.com/dp250f/Open-Gas-Truck/raw/main/Assembly/Images/ThrottleMotion.mp4' width=960/>
 
 # 
 ## Authors
